@@ -1,15 +1,15 @@
 {
-"name": "Gift Code Claim App",
-"short_name": "ClaimApp",
-"start_url": "index.html",
-"display": "standalone",
-"background_color": "#121212",
-"theme_color": "#121212",
-"icons": [
-{
-"src": "https://cdn-icons-png.flaticon.com/512/1055/1055646.png",
-"sizes": "192x192",
-"type": "image/png"
-}
-]
+  "name": "Gift Code App",
+  "short_name": "GiftApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffcc",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
